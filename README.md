@@ -13,7 +13,7 @@ I am passionate about using Machine Learning to solve client issues. I specializ
   
   ### Demos -- See for yourself what I've been working on.
 Test image link:
-[![thumbnail](https://www.youtube.com/watch?v=o3i-Dt-gcyw/0.jpg)](https://www.youtube.com/watch?v=o3i-Dt-gcyw)
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
   
   ###   Skills 
 <p align="left">
