@@ -12,7 +12,7 @@ I am passionate about using Machine Learning to solve client issues. I specializ
 *   🧠  I'm learning GoLang as I design a microservice for CoverMate
   
   ### Demos -- See for yourself what I've been working on.
-<a href="https://www.youtube.com/watch?v=StTqXEQ2l-Y" target="_blank" title="Everything Is AWESOME">
+<a href="[https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.loom.com/share/1390725d8a274e9a9ed63707cdd50474?sid=66e38cd8-f5a0-44ce-b75f-d54064fde2e5)" target="_blank" title="Everything Is AWESOME">
   <img src="https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg" alt="Everything Is AWESOME">
 </a>
   
