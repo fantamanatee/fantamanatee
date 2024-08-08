@@ -12,8 +12,13 @@ I am passionate about using Machine Learning to solve client issues. I specializ
 *   🧠  I'm learning GoLang as I design a microservice for CoverMate
   
   ### Demos -- See for yourself what I've been working on.
+  * DnD AI:
 <a href="https://www.loom.com/share/1390725d8a274e9a9ed63707cdd50474?sid=94c47c72-6c48-465a-83d0-08366dd8e8fa" target="_blank" title="CoverMate Demo">
-  <img src="https://github.com/fantamanatee/CoverMate/blob/d3ab8f548ab13c7fdb23cd370c950ba2e9c0ef84/CoverMate.jpg" alt="CoverMate Demo" style="width: 50%; max-width: 100%; height: auto;">
+  <img src="https://github.com/fantamanatee/CoverMate/blob/d3ab8f548ab13c7fdb23cd370c950ba2e9c0ef84/CoverMate.jpg" alt="CoverMate Demo" style="width: 30%; max-width: 100%; height: auto;">
+</a>
+  * CoverMate:
+<a href="https://www.loom.com/share/1390725d8a274e9a9ed63707cdd50474?sid=94c47c72-6c48-465a-83d0-08366dd8e8fa" target="_blank" title="CoverMate Demo">
+  <img src="https://github.com/fantamanatee/CoverMate/blob/d3ab8f548ab13c7fdb23cd370c950ba2e9c0ef84/CoverMate.jpg" alt="CoverMate Demo" style="width: 30%; max-width: 100%; height: auto;">
 </a>
   
   ###   Skills 
