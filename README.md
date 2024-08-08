@@ -11,7 +11,7 @@ I am passionate about using Machine Learning to solve client issues. I specializ
 *   🚀  I'm currently working on [DnD AI](https://668c3401b571f2929426f021--charming-ganache-286033.netlify.app/), an app for Dungeons and Dragons players to create and chat with DnD characters using chatbots and [CoverMate](https://github.com/fantamanatee/CoverMate), an integration with Google Docs for automatic Cover Letter Generation built with a GoLang microservice backend.
 *   🧠  I'm learning GoLang as I design a microservice for CoverMate
 
-  ### Demos -- See for yourself what I've been working on.
+  ### DEMOS -- See for yourself what I've been working on.
 DnD AI:
 
 <a href="https://www.loom.com/share/1390725d8a274e9a9ed63707cdd50474?sid=94c47c72-6c48-465a-83d0-08366dd8e8fa" target="_blank" title="CoverMate Demo">
