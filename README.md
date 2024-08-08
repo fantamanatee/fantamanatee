@@ -14,8 +14,8 @@ I am passionate about using Machine Learning to solve client issues. I specializ
   ### DEMOS -- See for yourself what I've been working on.
 DnD AI:
 
-<a href="https://www.loom.com/share/1390725d8a274e9a9ed63707cdd50474?sid=94c47c72-6c48-465a-83d0-08366dd8e8fa" target="_blank" title="CoverMate Demo">
-  <img src="https://github.com/fantamanatee/CoverMate/blob/d3ab8f548ab13c7fdb23cd370c950ba2e9c0ef84/CoverMate.jpg" alt="CoverMate Demo" style="width: 30%; max-width: 100%; height: auto;">
+<a href="https://www.loom.com/share/bf91bb8bbe694e00819915c3edc4952c?sid=7250e00d-6dc8-4e1a-b007-5d3fcf527acc" target="_blank" title="DnD_AI Demo">
+  <img src="https://github.com/fantamanatee/dnd_ai/blob/8d706d7c463552ea51200519edbbf1fc266eb032/dnd_ai_thmbnail.png" alt="DnD_AI Demo" style="width: 30%; max-width: 100%; height: auto;">
 </a>
 
 CoverMate:
