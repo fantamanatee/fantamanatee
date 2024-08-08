@@ -21,7 +21,7 @@ DnD AI:
 CoverMate:
 
 <a href="https://www.loom.com/share/1390725d8a274e9a9ed63707cdd50474?sid=94c47c72-6c48-465a-83d0-08366dd8e8fa" target="_blank" title="CoverMate Demo">
-  <img src="https://github.com/fantamanatee/CoverMate/blob/d3ab8f548ab13c7fdb23cd370c950ba2e9c0ef84/CoverMate.jpg" alt="CoverMate Demo" style="width: 30%; max-width: 100%; height: auto;">
+  <img src="https://github.com/fantamanatee/CoverMate/blob/a66f1394e664d61919aed5ac43925c821e36799e/CoverMate.jpeg" alt="CoverMate Demo" style="width: 30%; max-width: 100%; height: auto;">
 </a>
   
   ###   Skills 
