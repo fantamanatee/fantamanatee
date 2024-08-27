@@ -4,7 +4,7 @@ Hi 👋 My name is Aaron Su
 AI/ ML Engineer
 ---------------
 
-I am passionate about using Machine Learning to solve client issues. I specialize in Generative AI and custom AI web integrations including conversational chatbots, visual/speech enabled AI, and Software as a service (SaaS).
+I am passionate about using Machine Learning to solve client problems. I specialize in Generative AI and AI web integrations including conversational chatbots, visual/speech enabled AI, and microservices.
 
 *   🌍  I'm based in Mechanicsburg, PA, USA
 *   ✉️  You can contact me at [suaaron.work@gmail.com](mailto:suaaron.work@gmail.com)
