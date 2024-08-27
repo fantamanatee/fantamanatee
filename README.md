@@ -8,7 +8,7 @@ I am passionate about using Machine Learning to solve client issues. I specializ
 
 *   🌍  I'm based in Mechanicsburg, PA, USA
 *   ✉️  You can contact me at [suaaron.work@gmail.com](mailto:suaaron.work@gmail.com)
-*   📃  My [updated Resume](https://docs.google.com/document/d/1mqAFGlFC7qo56TdSw7OpMXu0N2OGwRbwPO77qHOPnLk/edit?usp=sharing)
+*   📃  My [updated Resume](https://docs.google.com/document/d/1l28DKPRJa7RI7PaqYZCSypvewGiDoF5jfuV6NKWsH7Q/edit?usp=sharing)
 *   🚀  I'm currently working on [DnD AI](https://668c3401b571f2929426f021--charming-ganache-286033.netlify.app/), an app for Dungeons and Dragons players to create and chat with DnD characters using chatbots and [CoverMate](https://github.com/fantamanatee/CoverMate), an integration with Google Docs for automatic Cover Letter Generation built with a GoLang microservice backend.
 *   🧠  I'm learning GoLang as I design a microservice for CoverMate
 
