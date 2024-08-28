@@ -29,6 +29,7 @@ CoverMate:
 Papers/ Publications
 ---------------
 [GlareNet: A Deep Learning Approach To Removing Glare From Images Taken in Proximity Operations](https://github.com/fantamanatee/fantamanatee/blob/60b5bf78dbbbdbd52257a87de6571c5b8a4e77c0/GlareNetRevA_GC1.pdf)
+
 [BoXHED_Fuse: Clinial Note Embeddings For Survival Analysis](https://github.com/fantamanatee/fantamanatee/blob/60b5bf78dbbbdbd52257a87de6571c5b8a4e77c0/BoXHED_Fuse%20Clinical%20Note%20Embeddings%20For%20Survival%20Analysis.pdf)
 
   
