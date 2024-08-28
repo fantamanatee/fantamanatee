@@ -25,6 +25,12 @@ CoverMate:
 <a href="https://www.loom.com/share/1390725d8a274e9a9ed63707cdd50474?sid=94c47c72-6c48-465a-83d0-08366dd8e8fa" target="_blank" title="CoverMate Demo">
   <img src="https://github.com/fantamanatee/CoverMate/blob/a66f1394e664d61919aed5ac43925c821e36799e/CoverMate.jpeg" alt="CoverMate Demo" style="width: 30%; max-width: 100%; height: auto;">
 </a>
+
+Papers/ Publications
+---------------
+GlareNet: A Deep Learning Approach To Removing Glare From Images Taken in Proximity Operations
+BoXHED_Fuse: Clinial Note Embeddings For Survival Analysis
+
   
   ###   Skills 
 <p align="left">
@@ -40,5 +46,6 @@ CoverMate:
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </picture>
     </a></p>
+
                   
                   
