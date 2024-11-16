@@ -4,7 +4,7 @@ Hi 👋 My name is Aaron Su
 AI/ ML Engineer
 ---------------
 
-I am passionate about using Machine Learning to solve client problems. I specialize in Generative AI and AI web integrations including conversational chatbots, visual/speech enabled AI, and microservices.
+I am passionate about using Machine Learning to solve client problems. I specialize in Generative AI, Conversational AI, and AI web integrations.
 
 *   🌍  I'm based in Mechanicsburg, PA, USA
 *   ✉️  You can contact me at [suaaron.work@gmail.com](mailto:suaaron.work@gmail.com)
@@ -31,6 +31,9 @@ Papers/ Publications
 [GlareNet: A Deep Learning Approach To Removing Glare From Images Taken in Proximity Operations](https://github.com/fantamanatee/fantamanatee/blob/60b5bf78dbbbdbd52257a87de6571c5b8a4e77c0/GlareNetRevA_GC1.pdf)
 
 [BoXHED_Fuse: Clinial Note Embeddings For Survival Analysis](https://github.com/fantamanatee/fantamanatee/blob/60b5bf78dbbbdbd52257a87de6571c5b8a4e77c0/BoXHED_Fuse%20Clinical%20Note%20Embeddings%20For%20Survival%20Analysis.pdf)
+
+[Realtime, multimodal invasive ventilation risk monitoring using language models and BoXHED](https://arxiv.org/abs/2410.03725)
+
 
   
   ###   Skills 
